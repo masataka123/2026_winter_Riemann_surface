@@ -117,7 +117,7 @@
 
 授業資料をまとめました. 
 
-[リーマン面・代数曲線論の授業資料](https://masataka123.github.io/2026_winter_Riemann_surface/0_線形代数_2026.pdf)
+[リーマン面・代数曲線論の授業資料](https://masataka123.github.io/2026_winter_Riemann_surface/material/0_線形代数_2026.pdf)
 
 以下は訂正リスト・バージョンアップの情報です. 間違いがあればこのファイルを訂正していきます. 
 
@@ -148,7 +148,7 @@
 私の勉強用に作ってもらいました. 時間が余ればこの内容も扱います. 
 
 
-[リーマン面のモジュライ(chatGPT 作)](https://masataka123.github.io/2026_winter_Riemann_surface/0_moduli_lecture_notes_20260925.pdf)
+[リーマン面のモジュライ(chatGPT 作)](https://masataka123.github.io/2026_winter_Riemann_surface/material/0_moduli_lecture_notes_20260925.pdf)
 
 AI生成なので一応注意して読んでください(まあchatGPTの方が私より正確なことが多いんですが...)
 
