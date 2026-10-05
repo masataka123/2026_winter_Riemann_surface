@@ -28,7 +28,7 @@
 - レポート提出方法: 配布したレポート問題に解答し, CLEにて提出する. 
 - 内容: AI利用を前提として, 「本講義で扱った代数曲線に関する定理を一つ選び、その内容と面白さを説明しなさい。」をA4用紙2枚程度で私にプレゼンするレポートを予定. 
 
-詳しくは[ガイダンスの資料](https://masataka123.github.io/2026_winter_Riemann_surface/material/d.pdf)をご覧ください.
+詳しくは[ガイダンスの資料](https://masataka123.github.io/2026_winter_Riemann_surface/material/0_リーマン面_2026_1005.pdf)をご覧ください.
 
 
 
@@ -117,7 +117,7 @@
 
 授業資料をまとめました. 
 
-[リーマン面・代数曲線論の授業資料](https://masataka123.github.io/2026_winter_Riemann_surface/material/0_線形代数_2026.pdf)
+[リーマン面・代数曲線論の授業資料](https://masataka123.github.io/2026_winter_Riemann_surface/material/0_リーマン面_2026_1005.pdf)
 
 以下は訂正リスト・バージョンアップの情報です. 間違いがあればこのファイルを訂正していきます. 
 
