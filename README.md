@@ -129,8 +129,8 @@
 授業の板書をアップロードしていきます.  対面授業なので1日に授業をどこまで進められるかわかりません. 授業の進み具合に応じて適宜休講あるいは補講をすることがあるので, こまめにホームページを確認してください. 
 
 - 第1回 (2026/10/06) [第1回授業板書](https://masataka123.github.io/2026_winter_Riemann_surface/material/1_授業板書.pdf)
-- 第2回 (2026/10/13)  [第2回授業板書](https://masataka123.github.io/2026_winter_Riemann_surface/material/2_授業板書.pdf)
-- 第3回 (2026/10/20)
+- 第2回 (2026/10/13) [第2回授業板書](https://masataka123.github.io/2026_winter_Riemann_surface/material/2_授業板書.pdf)
+- 第3回 (2026/10/20) [第3回授業板書](https://masataka123.github.io/2026_winter_Riemann_surface/material/3_授業板書.pdf)
 - 第4回 (2026/10/27)
 - 第5回 (2026/11/10)
 - 第6回 (2026/11/17) 
